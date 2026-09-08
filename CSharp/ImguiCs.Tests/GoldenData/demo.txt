@@ -1,0 +1,47 @@
+# scenario=demo imgui=1.93.0 WIP num=19295
+ATLAS w=512 h=128 bpp=4
+FRAME 0
+TEXCOUNT 1
+TEX 0 w=512 h=128 bpp=4 status=2 texid=1
+DD valid=1 lists=1 totalvtx=774 totalidx=1281
+DD.displaysize=44a00000,44340000
+DD.displaypos=00000000,00000000
+DD.fbscale=3f800000,3f800000
+LIST 0 vtx=774 idx=1281
+CMD.clip=00000000,00000000,44a00000,44340000
+CMD texid=1 elem=153 idxoff=0 vtxoff=0
+CMD.clip=4422c000,421c0000,44960000,42680000
+CMD texid=1 elem=102 idxoff=153 vtxoff=0
+CMD.clip=4422c000,42680000,4495e000,442ec000
+CMD texid=1 elem=1026 idxoff=255 vtxoff=0
+HASH a8fd19ff
+FRAME 1
+TEXCOUNT 1
+TEX 0 w=512 h=128 bpp=4 status=2 texid=1
+DD valid=1 lists=1 totalvtx=780 totalidx=1302
+DD.displaysize=44a00000,44340000
+DD.displaypos=00000000,00000000
+DD.fbscale=3f800000,3f800000
+LIST 0 vtx=780 idx=1302
+CMD.clip=00000000,00000000,44a00000,44340000
+CMD texid=1 elem=174 idxoff=0 vtxoff=0
+CMD.clip=4422c000,421c0000,44960000,42680000
+CMD texid=1 elem=102 idxoff=174 vtxoff=0
+CMD.clip=4422c000,42680000,4495e000,442ec000
+CMD texid=1 elem=1026 idxoff=276 vtxoff=0
+HASH 4f3e4bae
+FRAME 2
+TEXCOUNT 1
+TEX 0 w=512 h=128 bpp=4 status=2 texid=1
+DD valid=1 lists=1 totalvtx=780 totalidx=1302
+DD.displaysize=44a00000,44340000
+DD.displaypos=00000000,00000000
+DD.fbscale=3f800000,3f800000
+LIST 0 vtx=780 idx=1302
+CMD.clip=00000000,00000000,44a00000,44340000
+CMD texid=1 elem=174 idxoff=0 vtxoff=0
+CMD.clip=4422c000,421c0000,44960000,42680000
+CMD texid=1 elem=102 idxoff=174 vtxoff=0
+CMD.clip=4422c000,42680000,4495e000,442ec000
+CMD texid=1 elem=1026 idxoff=276 vtxoff=0
+HASH 4f3e4bae

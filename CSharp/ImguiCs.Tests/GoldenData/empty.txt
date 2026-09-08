@@ -1,0 +1,23 @@
+# scenario=empty imgui=1.93.0 WIP num=19295
+ATLAS w=512 h=128 bpp=4
+FRAME 0
+TEXCOUNT 1
+TEX 0 w=512 h=128 bpp=4 status=2 texid=1
+DD valid=1 lists=0 totalvtx=0 totalidx=0
+DD.displaysize=44a00000,44340000
+DD.displaypos=00000000,00000000
+DD.fbscale=3f800000,3f800000
+FRAME 1
+TEXCOUNT 1
+TEX 0 w=512 h=128 bpp=4 status=2 texid=1
+DD valid=1 lists=0 totalvtx=0 totalidx=0
+DD.displaysize=44a00000,44340000
+DD.displaypos=00000000,00000000
+DD.fbscale=3f800000,3f800000
+FRAME 2
+TEXCOUNT 1
+TEX 0 w=512 h=128 bpp=4 status=2 texid=1
+DD valid=1 lists=0 totalvtx=0 totalidx=0
+DD.displaysize=44a00000,44340000
+DD.displaypos=00000000,00000000
+DD.fbscale=3f800000,3f800000

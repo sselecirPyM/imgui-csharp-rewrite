@@ -1,0 +1,9 @@
+bin/
+obj/
+*.o
+*.exe
+.vs/
+*.user
+imgui.ini
+
+CSharp/ImguiCs.Tests/GoldenData/actual/

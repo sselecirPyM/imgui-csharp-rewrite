@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AtlasProbe/AtlasProbe.csproj" />
+  <Project Path="DockProbe/DockProbe.csproj" />
+  <Project Path="ImguiCs.Tests/ImguiCs.Tests.csproj" />
+  <Project Path="ImguiCs/ImguiCs.csproj" />
+</Solution>

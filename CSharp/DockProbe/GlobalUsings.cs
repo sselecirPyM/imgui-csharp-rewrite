@@ -1,0 +1,14 @@
+global using ImGui;
+global using static ImGui.ImGuiCond_;
+global using static ImGui.ImGuiConfigFlags_;
+global using static ImGui.ImGuiDir_;
+global using static ImGui.ImGuiDockNodeFlags_;
+global using static ImGui.ImGuiStyleVar_;
+global using static ImGui.ImGuiWindowFlags_;
+global using ImGuiCond = System.Int32;
+global using ImGuiConfigFlags = System.Int32;
+global using ImGuiDir = System.Int32;
+global using ImGuiDockNodeFlags = System.Int32;
+global using ImGuiStyleVar = System.Int32;
+global using ImGuiWindowFlags = System.Int32;
+global using ImGuiID = System.UInt32;
